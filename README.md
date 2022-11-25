@@ -1,6 +1,6 @@
 ## Environment:
 - Java version: 17
-- Maven version: 3.
+- Maven version: 3.x
 - Spring Boot version: 3.0
 
 ## Read-Only Files:
